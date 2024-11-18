@@ -1,4 +1,4 @@
-# Human Resources Bot
+# Quick HR chatbot for Conversational AI Hackathon with IBM watsonx Assistant
 
 This repository contains the code and JSON data for the Human Resources bot I developed. The bot is designed to assist employees with common HR-related queries, providing automated and efficient responses.
 
